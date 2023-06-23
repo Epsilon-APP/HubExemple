@@ -1,0 +1,24 @@
+fr/epsilon/hub/inv/InventoryFactory.java
+ fr.epsilon.hub.inv.InventoryFactory
+fr/epsilon/hub/inv/InventoryContents.java
+ fr.epsilon.hub.inv.InventoryContents
+ fr.epsilon.hub.inv.InventoryContents$ItemSlots
+fr/epsilon/hub/inv/InventoryPagination.java
+ fr.epsilon.hub.inv.InventoryPagination
+ fr.epsilon.hub.inv.InventoryPagination$Item
+ fr.epsilon.hub.inv.InventoryPagination$ItemPage
+fr/epsilon/hub/commands/JoinQueueCommand.java
+ fr.epsilon.hub.commands.JoinQueueCommand
+fr/epsilon/hub/Hub.java
+ fr.epsilon.hub.Hub
+fr/epsilon/hub/inv/InventoryPattern.java
+ fr.epsilon.hub.inv.InventoryPattern
+ fr.epsilon.hub.inv.InventoryPattern$Fill
+fr/epsilon/hub/inv/EpsilonInventory.java
+ fr.epsilon.hub.inv.EpsilonInventory
+ fr.epsilon.hub.inv.EpsilonInventory$Builder
+ fr.epsilon.hub.inv.EpsilonInventory$InventoryListener
+fr/epsilon/hub/ItemBuilder.java
+ fr.epsilon.hub.ItemBuilder
+fr/epsilon/hub/InventoryCompass.java
+ fr.epsilon.hub.InventoryCompass

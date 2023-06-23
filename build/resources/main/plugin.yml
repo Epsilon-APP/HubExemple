@@ -1,0 +1,8 @@
+name: EpsilonHub
+version: 1.0
+main: fr.epsilon.hub.Hub
+author: EliXorZz
+
+commands:
+  queue:
+    description: "Commande pour rejoindre une queue"
